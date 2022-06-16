@@ -1,0 +1,35 @@
+body {
+
+    background-color: rgb(5, 23, 40);
+    color: whitesmoke;
+    padding-left: 500px;
+    padding-top: 200px;
+
+}
+
+.box-content{
+    padding: 20px;
+    width: 200px;
+    border: 2px solid #1f87bb;
+    border-radius: 2px;
+
+}
+
+.writting-box{
+    border: 1px solid #1f87bb;
+    border-radius: 2px;
+    width: 160px;
+}
+
+.button{
+    background-color: #1f87bb;
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+    color: white;  
+}
+
+textarea { 
+    width: 160px;
+    height: 150px; 
+}
